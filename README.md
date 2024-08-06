@@ -6,9 +6,6 @@
 
 **code_tmp** is more than just a practice repository; it's my sanctuary for coding excellence. Here, I push the boundaries of what's possible, experiment fearlessly, and cultivate a culture of continuous improvement. It's where dreams are coded into reality and challenges are transformed into opportunities.
 
-### 👥 Visitors:
-![Visitor Count](https://profile-counter.glitch.me/learnershakil/code_tmp/count.svg)
-
 ### 🤝 Connect with me:
 
 - 🌐 Website: [learnershakil.rf.gd](https://learnershakil.rf.gd)
