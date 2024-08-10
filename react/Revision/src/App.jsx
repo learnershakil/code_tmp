@@ -6,13 +6,17 @@ function App() {
 
   return (
     <>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
+      <h1>Counter: {count}</h1>
+        <button onClick={() => {if(count<20){setCount((count) => count + 1)}}}>
+          Increase
         </button>
-      </div>
+        <br />
+        <br />
+        <button onClick={() => {if(count > 0){setCount((count) => count - 1)}}}>
+          Decrease
+        </button>
     </>
-  )
+  )   
 }
 
 export default App
