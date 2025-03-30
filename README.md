@@ -16,7 +16,7 @@ Files in this repository are often deleted after the completion of classes, proj
 
 ## Connect with Me
 
-- 🌐 [Website](https://learnershakil.rf.gd)
+- 🌐 [Website](https://learnershakil.me)
 - 📧 [Email](mailto:learnershakil@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/learnershakil/)
 - 📸 [Instagram](https://www.instagram.com/learnershakil/)
